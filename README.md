@@ -18,4 +18,4 @@ Build on the existing function to support other shapes - add a shape parameter s
 koch_snowflake(500, 5)
 
 ### Output:
-<img src=output.png width="600">
+<img src=output.png width="500">
