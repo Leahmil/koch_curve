@@ -15,7 +15,7 @@ Build on the existing function to support other shapes - add a shape parameter s
 
 ### Input:
 
-koch_snowflake(500, 5)
+koch_snowflake(length=500, iterations=5)
 
 ### Output:
 <img src=output.png width="500">
